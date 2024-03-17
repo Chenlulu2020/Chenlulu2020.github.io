@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      How to Study Cities？
+subtitle:   Reading notes
+date:       2024-03-17
+author:     Hanna CHEN
+header-img: img/post-bg-ios9-web.jpg
+catalog: 	 true
+tags:
+    - urban research methods
+---
 
 ***
 **我的感想**
