@@ -1,5 +1,3 @@
-不知道出于何种原因，中文翻译的逻辑不准确、关键内容不完整
-
 
 ***
 **我的感想**
@@ -126,8 +124,3 @@ A Body of Knowledge (BOK or BoK)  知识体系
 
 - the complete set of concepts, terms and activities that make up a professional domain
 ***
-
-
-leave comments on my Github
-
-https://github.com/Chenlulu2020/UrbanUpedia
