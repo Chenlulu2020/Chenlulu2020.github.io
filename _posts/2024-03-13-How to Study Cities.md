@@ -82,14 +82,13 @@ There is never only one “right” way to do urban research.
 
 The best urban research designs are to triangulate on problems using both quantitative and qualitative research methods, which means to do both cross-sectional and longitudinal(time), qualitative and quantitative research,  (geographical) spatial analysis.
 
-***
-Ref: Prologue “How to Study Cities”
+
+## References
 
 LeGates, R. T., & Stout, F. (Eds.). (2011). _The city reader_ (pp. 110-114). London: Routledge.
 
-Author：Richard LeGates
-Professor of Urban Studies and Planning in San Francisco State University
-***
+Author：Richard LeGates, Professor of Urban Studies and Planning in San Francisco State University
+
 
 ## Academic Language Bank
 
