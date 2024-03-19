@@ -21,7 +21,7 @@ How cities are planned？
 
 - How to design sites, districts, and entire cities and city regions, urban placemaking, the impact of globalization and information technology on cities and the probable future of cities, city regions, and the world city network
 
-What cities are？→Descriptive theory, Functional theory：
+What cities are？→Descriptive theory, Functional theory
 
 What cities “ought to be”? →Normative theory
 
@@ -31,11 +31,11 @@ Types of Academic writing about cities：basic research vs applied research
 
 - basic research and theory-building
 
--  applied research and writing intended to produce solutions to actual urban problems
+- applied research and writing intended to produce solutions to actual urban problems
 
 Some professors value only basic research and theory-building and look down on applied research and writing intended to produce solutions to actual urban problems.
 
--  Author argued that Good scholarship directed at problem-solving can be just as theoretically subtle and methodologically sophisticated as pure academic research.
+- Author argued that Good scholarship directed at problem-solving can be just as theoretically subtle and methodologically sophisticated as pure academic research.
 
 - Peter Hall and others deplore the lack of connection between urban theory and urban practice.
 
@@ -43,9 +43,7 @@ However, most of the academic literature about cities has been written by social
 
 ## 3.Disciplinary and Interdisciplinary
 
-Professors in city and regional planning and urban studies departments are generally interdisciplinary, who have been educated in two types of academic disciplines.
-
-Two types of disciplinary perspectives
+Professors in city and regional planning and urban studies departments are generally interdisciplinary, who have been educated in two types of academic disciplines:
 
 -  social science disciplines: “urban geography,” “urban sociology,” “urban politics,” “urban economics,” or “urban anthropology,”
 
@@ -57,7 +55,7 @@ Two types of disciplinary perspectives
 
 A advantage of disciplines is based on agreed-upon methods for acquiring knowledge and agreed-upon body of knowledge
 
-A disadvantage of disciplines
+A disadvantage of disciplines:
 
 - There is a danger that researchers, who have been trained in  a single discipline, will think rigidly within the four corners of the discipline itself and see only  factors in their discipline as important when they study about a complex urban issue.
 
@@ -65,9 +63,9 @@ A disadvantage of disciplines
 
 ### 2) Interdisciplinary approaches
 
-The strength of interdisciplinary approaches: a richer, more holistic, more varied understanding of multiple dimensions of the phenomena being studied
+The strength of interdisciplinary approaches: a richer, more holistic, more varied understanding of multiple dimensions of the phenomena being studied.
 
-The weakness of interdisciplinary approaches
+The weakness of interdisciplinary approaches:
 
 -  Interdisciplinary research and writings are often criticized as wide but shallow.
 
