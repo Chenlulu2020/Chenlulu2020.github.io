@@ -10,23 +10,6 @@ tags:
     - urban research methods
 ---
 
-***
-**写在最后**
-
-1.我感受到的跨学科情况（某985建筑与规划学院）：国内的建筑学院似乎没有多学科的取向，同时我也常常感受到对研究有限制，比如研究结论必须回到物质空间。
-
-2.学术研究的作者来自什么学科背景：本文的立场虽然是不应该看低应用研究，但作者还是发现大多数学术研究来自受到系统训练的社科背景的学者，令我深思……
-
-3.怎么学学术英语：如果立志成为一个好的城市研究者，我想，英语的重要性不言自明。但是，语言是无法靠一朝一夕提升的，日积月累才是捷径呀！
-***
-Ref: Prologue “How to Study Cities”
-
-LeGates, R. T., & Stout, F. (Eds.). (2011). _The city reader_ (pp. 110-114). London: Routledge.
-
-Author：Richard LeGates
-Professor of Urban Studies and Planning in San Francisco State University
-***
-
 # Reading notes_How to Study Cities
 
 ## 1.Fundamentals: disciplinary problems and scholarly debates
@@ -133,3 +116,23 @@ A Body of Knowledge (BOK or BoK)  知识体系
 
 - the complete set of concepts, terms and activities that make up a professional domain
 ***
+Ref: Prologue “How to Study Cities”
+
+LeGates, R. T., & Stout, F. (Eds.). (2011). _The city reader_ (pp. 110-114). London: Routledge.
+
+Author：Richard LeGates
+Professor of Urban Studies and Planning in San Francisco State University
+***
+
+
+## 写在最后
+
+1.我感受到的跨学科情况（某985建筑与规划学院）：国内的建筑学院似乎没有多学科的取向，同时我也常常感受到对研究有限制，比如研究结论必须回到物质空间。
+
+2.学术研究的作者来自什么学科背景：本文的立场虽然是不应该看低应用研究，但作者还是发现大多数学术研究来自受到系统训练的社科背景的学者，令我深思……
+
+3.怎么学学术英语：如果立志成为一个好的城市研究者，我想，英语的重要性不言自明。但是，语言是无法靠一朝一夕提升的，日积月累才是捷径呀！
+
+
+
+
