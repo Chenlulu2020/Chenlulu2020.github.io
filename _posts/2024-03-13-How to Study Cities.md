@@ -9,9 +9,6 @@ catalog: 	 true
 tags:
     - urban research methods
 ---
-
-# Reading notes_How to Study Cities
-
 ## 1.Fundamentals: disciplinary problems and scholarly debates
 
 Why do we have cities？
